@@ -34,3 +34,12 @@ Hobbies:
   - "Rhythm Games (osu!) 🎮"
   - "Reverse Engineering 🔍"
   - "Coffee Brewing ☕"
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chino0w0/Chino0w0/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chino0w0/Chino0w0/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Chino0w0/Chino0w0/output/github-snake.svg" />
+  </picture>
+</div>
