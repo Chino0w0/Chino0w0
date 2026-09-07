@@ -14,6 +14,19 @@
     <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Build-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
   </p>
+  
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api?username=Chino0w0&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Chino0w0&layout=compact&forks=true&langs_count=8" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
